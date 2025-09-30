@@ -1,0 +1,11 @@
+{
+  "name": "anora-ai",
+  "version": "1.0.0",
+  "description": "The ai agent which converts the conversations into the meaningful descriptions",
+  "main": "routing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saish",
+  "license": "ISC"
+}
